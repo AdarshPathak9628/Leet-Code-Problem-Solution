@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0287-find-the-duplicate-number) |
+| [0525-contiguous-array](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0525-contiguous-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0287-find-the-duplicate-number) |
+## Hash Table
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0525-contiguous-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
