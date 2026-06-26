@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0062-unique-paths) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
