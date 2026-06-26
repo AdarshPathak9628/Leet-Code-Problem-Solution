@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0525-contiguous-array) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
