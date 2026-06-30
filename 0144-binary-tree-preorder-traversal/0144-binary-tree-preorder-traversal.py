@@ -14,12 +14,10 @@ class Solution:
                 return
 
             ans.append(node.val)
-            
+
             dfs(node.left)
 
             dfs(node.right)
-
-            
 
         dfs(root)
 
