@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0496-next-greater-element-i](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0525-contiguous-array) |
 ## Prefix Sum
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0020-valid-parentheses) |
+| [0187-repeated-dna-sequences](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
@@ -111,4 +114,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0199-binary-tree-right-side-view) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
