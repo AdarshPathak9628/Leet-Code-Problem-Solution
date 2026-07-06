@@ -37,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0062-unique-paths) |
 | [0326-power-of-three](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0062-unique-paths) |
+| [0509-fibonacci-number](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0206-reverse-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
