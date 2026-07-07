@@ -48,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0072-edit-distance) |
 | [0187-repeated-dna-sequences](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0072-edit-distance) |
 | [0509-fibonacci-number](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
