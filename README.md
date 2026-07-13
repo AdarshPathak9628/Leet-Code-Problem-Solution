@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0054-spiral-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0287-find-the-duplicate-number) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0344-reverse-string) |
 ## Binary Search
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0072-edit-distance) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0232-implement-queue-using-stacks) |
@@ -79,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
