@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0054-spiral-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0496-next-greater-element-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0072-edit-distance) |
 | [0509-fibonacci-number](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0509-fibonacci-number) |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
