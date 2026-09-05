@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0054-spiral-matrix) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0287-find-the-duplicate-number](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/2685-count-the-number-of-complete-components) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
