@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0054-spiral-matrix) |
+| [0217-contains-duplicate](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0525-contiguous-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0187-repeated-dna-sequences) |
+| [0217-contains-duplicate](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0525-contiguous-array) |
 ## Prefix Sum
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
