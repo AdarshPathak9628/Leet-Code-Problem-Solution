@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0054-spiral-matrix) |
+| [0139-word-break](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0496-next-greater-element-i) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0496-next-greater-element-i) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0344-reverse-string) |
 ## Dynamic Programming
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
@@ -189,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0217-contains-duplicate) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AdarshPathak9628/Leet-Code-Problem-Solution/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
